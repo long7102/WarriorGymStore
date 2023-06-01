@@ -1,0 +1,138 @@
+* {
+   box-sizing:border-box
+ }
+ .home{
+  width: 100%;
+ }
+ .home2{
+   width: 100%;
+   /* padding: 60px; */
+   background-image: url(../background.jpg);
+   background-repeat: repeat;
+   background-size: contain;
+   text-align: center;
+ }
+ .home2-1-1{
+   display: flex;
+   margin-bottom: 50px;
+ }
+ .gym{
+   /* margin-left: 75px; */
+   width: 250px;
+   height: 500px;
+   margin-right: 75px;
+   background-color: #353535;
+   
+ }
+ .gym1{
+   width: 250px;
+   height: 200px;
+   font-size: 15px;
+   line-height: 23px;
+   color: white;
+   text-align: center;
+ }
+ .gym1 h3{
+margin-left: 12.5px;
+   width: 225px;
+   border: 2px solid;
+   border-color: green;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+ }
+ .gym1 p{
+   margin-top: -15px;
+ }
+ .yoga{
+   width: 250px;
+   height: 500px;
+   margin-right: 75px;
+   background-color: #353535;
+ }
+ .dance{
+   width: 250px;
+   height: 500px;
+   margin-right: 75px;
+   background-color: #353535;
+ }
+ .boxing{
+   width: 250px;
+   height: 500px;
+   margin-right: 75px;
+   background-color: #353535;
+ }
+ .gym img{
+   width: 250px;
+   height: 250px;
+ }
+ .yoga img{
+   width: 250px;
+   height: 250px;
+ }
+ .dance img{
+   width: 250px;
+   height: 250px;
+ }
+ .boxing img{
+   width: 250px;
+   height: 250px;
+ }
+ button{
+   width: 225px;
+   height: 50px;
+   background-color: green;
+   color: white;
+   font-weight: 600;
+   text-align: center;
+ }
+ button:hover{
+   background-color: black;
+ }
+ 
+.home2-3{
+  width: 100%;
+  height: 600px;
+}
+.home2-3-1{
+  width: 100%;
+  height: 430px;
+  display: flex;
+  margin: 0 100px;
+  font-family: monospace;
+}
+.home2-3-1-1 {
+  width: 265px;
+  height: 300px;
+  margin-right: 25px;
+
+}
+.home2-3-1-1 p{
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  height: 40px;
+  justify-content:end;
+  margin-top: -4px;
+}
+.home2-3-1-1 img{
+  width: 265px;
+  height: 265px;
+}
+.home2-3-2{
+  /* margin-left: 95px; */
+  display: flex;
+  
+}
+.home2-3-2 p{
+  font-family: monospace;
+  font-size: 15px;
+}
+.home2-3-2-1{
+  width: 260px;
+  height: 140px;
+  background-color: #038625;
+  color: white;
+  margin-right: 30px;
+  font-size: 17px;
+}
